@@ -1,2 +1,2 @@
-# post_ipeadatar
+# Uso do pacote ipeadatar
 Exemplos de uso do pacote ipeadatar
